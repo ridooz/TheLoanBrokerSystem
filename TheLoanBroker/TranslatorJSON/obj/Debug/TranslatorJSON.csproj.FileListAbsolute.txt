@@ -1,0 +1,11 @@
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorJSON\bin\Debug\TranslatorJSON.exe.config
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorJSON\bin\Debug\TranslatorJSON.exe
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorJSON\bin\Debug\TranslatorJSON.pdb
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorJSON\bin\Debug\ClassLibrary.dll
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorJSON\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorJSON\bin\Debug\RabbitMQ.ServiceModel.dll
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorJSON\bin\Debug\ClassLibrary.pdb
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorJSON\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorJSON\obj\Debug\TranslatorJSON.csprojResolveAssemblyReference.cache
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorJSON\obj\Debug\TranslatorJSON.exe
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorJSON\obj\Debug\TranslatorJSON.pdb

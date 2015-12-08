@@ -1,0 +1,90 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheLoanBroker", "TheLoanBroker\TheLoanBroker.csproj", "{C7769933-9E86-4B23-8739-5B0CB7F23CD3}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A0A82A93-F82E-4E42-9A28-2E6CEACE8B4E} = {A0A82A93-F82E-4E42-9A28-2E6CEACE8B4E}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetBanks", "GetBanks\GetBanks.csproj", "{03232411-D38B-40BA-AA9A-56298964CC8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{722C2D95-79C3-403D-922A-33C688FB1113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetCreditScore", "GetCreditScore\GetCreditScore.csproj", "{D60F77F7-D1F9-4291-8660-B6DD35538171}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C7769933-9E86-4B23-8739-5B0CB7F23CD3} = {C7769933-9E86-4B23-8739-5B0CB7F23CD3}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLibrary", "ServiceLibrary\ServiceLibrary.csproj", "{A0A82A93-F82E-4E42-9A28-2E6CEACE8B4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipientList", "RecipientList\RecipientList.csproj", "{052EFA39-D39A-4E81-8618-50AE649F01EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranslatorXML", "TranslatorXML\TranslatorXML.csproj", "{4120C2C3-9632-4DC9-937F-FF7297512651}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranslatorJSON", "TranslatorJSON\TranslatorJSON.csproj", "{4F3CBAE2-A593-40FD-A060-B9B41D8712D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranslatorWS", "TranslatorWS\TranslatorWS.csproj", "{9C30730E-5096-4BCE-ADC7-19A13C27A6C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranslatorMESSAGING", "TranslatorMESSAGING\TranslatorMESSAGING.csproj", "{AB2DBC5D-A947-4BAB-A7FD-221783437D7D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Translators", "Translators", "{0326A9E3-5F3B-4658-8035-3A9CA5ED6934}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7769933-9E86-4B23-8739-5B0CB7F23CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7769933-9E86-4B23-8739-5B0CB7F23CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7769933-9E86-4B23-8739-5B0CB7F23CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7769933-9E86-4B23-8739-5B0CB7F23CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03232411-D38B-40BA-AA9A-56298964CC8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03232411-D38B-40BA-AA9A-56298964CC8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03232411-D38B-40BA-AA9A-56298964CC8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03232411-D38B-40BA-AA9A-56298964CC8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{722C2D95-79C3-403D-922A-33C688FB1113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{722C2D95-79C3-403D-922A-33C688FB1113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{722C2D95-79C3-403D-922A-33C688FB1113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{722C2D95-79C3-403D-922A-33C688FB1113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D60F77F7-D1F9-4291-8660-B6DD35538171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D60F77F7-D1F9-4291-8660-B6DD35538171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D60F77F7-D1F9-4291-8660-B6DD35538171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D60F77F7-D1F9-4291-8660-B6DD35538171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0A82A93-F82E-4E42-9A28-2E6CEACE8B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A82A93-F82E-4E42-9A28-2E6CEACE8B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A82A93-F82E-4E42-9A28-2E6CEACE8B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A82A93-F82E-4E42-9A28-2E6CEACE8B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{052EFA39-D39A-4E81-8618-50AE649F01EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{052EFA39-D39A-4E81-8618-50AE649F01EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{052EFA39-D39A-4E81-8618-50AE649F01EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{052EFA39-D39A-4E81-8618-50AE649F01EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4120C2C3-9632-4DC9-937F-FF7297512651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4120C2C3-9632-4DC9-937F-FF7297512651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4120C2C3-9632-4DC9-937F-FF7297512651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4120C2C3-9632-4DC9-937F-FF7297512651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F3CBAE2-A593-40FD-A060-B9B41D8712D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F3CBAE2-A593-40FD-A060-B9B41D8712D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F3CBAE2-A593-40FD-A060-B9B41D8712D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F3CBAE2-A593-40FD-A060-B9B41D8712D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C30730E-5096-4BCE-ADC7-19A13C27A6C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C30730E-5096-4BCE-ADC7-19A13C27A6C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C30730E-5096-4BCE-ADC7-19A13C27A6C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C30730E-5096-4BCE-ADC7-19A13C27A6C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB2DBC5D-A947-4BAB-A7FD-221783437D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB2DBC5D-A947-4BAB-A7FD-221783437D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB2DBC5D-A947-4BAB-A7FD-221783437D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB2DBC5D-A947-4BAB-A7FD-221783437D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4120C2C3-9632-4DC9-937F-FF7297512651} = {0326A9E3-5F3B-4658-8035-3A9CA5ED6934}
+		{4F3CBAE2-A593-40FD-A060-B9B41D8712D4} = {0326A9E3-5F3B-4658-8035-3A9CA5ED6934}
+		{9C30730E-5096-4BCE-ADC7-19A13C27A6C3} = {0326A9E3-5F3B-4658-8035-3A9CA5ED6934}
+		{AB2DBC5D-A947-4BAB-A7FD-221783437D7D} = {0326A9E3-5F3B-4658-8035-3A9CA5ED6934}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Mikail Tolga Turan\Desktop\GitHub\TheLoanBroker\TheLoanBroker\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Mikail Tolga Turan\Desktop\GitHub\TheLoanBroker\TheLoanBroker\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Mikail Tolga Turan\Desktop\GitHub\TheLoanBroker\TheLoanBroker\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Mikail Tolga Turan\Desktop\GitHub\TheLoanBroker\TheLoanBroker\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\ClassLibrary\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\ClassLibrary\bin\Debug\RabbitMQ.ServiceModel.dll
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\ClassLibrary\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\ClassLibrary\obj\Debug\ClassLibrary.pdb

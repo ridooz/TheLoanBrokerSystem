@@ -1,0 +1,11 @@
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorMESSAGING\bin\Debug\TranslatorMESSAGING.exe.config
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorMESSAGING\bin\Debug\TranslatorMESSAGING.exe
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorMESSAGING\bin\Debug\TranslatorMESSAGING.pdb
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorMESSAGING\bin\Debug\ClassLibrary.dll
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorMESSAGING\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorMESSAGING\bin\Debug\RabbitMQ.ServiceModel.dll
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorMESSAGING\bin\Debug\ClassLibrary.pdb
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorMESSAGING\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorMESSAGING\obj\Debug\TranslatorMESSAGING.csprojResolveAssemblyReference.cache
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorMESSAGING\obj\Debug\TranslatorMESSAGING.exe
+C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorMESSAGING\obj\Debug\TranslatorMESSAGING.pdb

@@ -23,3 +23,6 @@ C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\GetBanks\bin\Deb
 C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\GetBanks\obj\Debug\GetBanks.csprojResolveAssemblyReference.cache
 C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\GetBanks\obj\Debug\GetBanks.exe
 C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\GetBanks\obj\Debug\GetBanks.pdb
+C:\Users\Babu110\Source\Repos\TheLoanBrokerSystem\TheLoanBroker\GetBanks\bin\Debug\GetBanks.exe.config
+C:\Users\Babu110\Source\Repos\TheLoanBrokerSystem\TheLoanBroker\GetBanks\obj\Debug\GetBanks.exe
+C:\Users\Babu110\Source\Repos\TheLoanBrokerSystem\TheLoanBroker\GetBanks\obj\Debug\GetBanks.pdb

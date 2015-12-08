@@ -19,3 +19,6 @@ C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\RecipientList\bi
 C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\RecipientList\obj\Debug\RecipientList.csprojResolveAssemblyReference.cache
 C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\RecipientList\obj\Debug\RecipientList.exe
 C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\RecipientList\obj\Debug\RecipientList.pdb
+C:\Users\Babu110\Source\Repos\TheLoanBrokerSystem\TheLoanBroker\RecipientList\bin\Debug\RecipientList.exe.config
+C:\Users\Babu110\Source\Repos\TheLoanBrokerSystem\TheLoanBroker\RecipientList\obj\Debug\RecipientList.exe
+C:\Users\Babu110\Source\Repos\TheLoanBrokerSystem\TheLoanBroker\RecipientList\obj\Debug\RecipientList.pdb

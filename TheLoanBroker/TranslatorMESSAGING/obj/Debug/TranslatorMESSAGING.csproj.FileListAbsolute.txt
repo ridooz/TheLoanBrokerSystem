@@ -9,3 +9,6 @@ C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorMESSAG
 C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorMESSAGING\obj\Debug\TranslatorMESSAGING.csprojResolveAssemblyReference.cache
 C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorMESSAGING\obj\Debug\TranslatorMESSAGING.exe
 C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorMESSAGING\obj\Debug\TranslatorMESSAGING.pdb
+C:\Users\Babu110\Source\Repos\TheLoanBrokerSystem\TheLoanBroker\TranslatorMESSAGING\bin\Debug\TranslatorMESSAGING.exe.config
+C:\Users\Babu110\Source\Repos\TheLoanBrokerSystem\TheLoanBroker\TranslatorMESSAGING\obj\Debug\TranslatorMESSAGING.exe
+C:\Users\Babu110\Source\Repos\TheLoanBrokerSystem\TheLoanBroker\TranslatorMESSAGING\obj\Debug\TranslatorMESSAGING.pdb

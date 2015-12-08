@@ -9,3 +9,6 @@ C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorXML\bi
 C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorXML\obj\Debug\TranslatorXML.csprojResolveAssemblyReference.cache
 C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorXML\obj\Debug\TranslatorXML.exe
 C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorXML\obj\Debug\TranslatorXML.pdb
+C:\Users\Babu110\Source\Repos\TheLoanBrokerSystem\TheLoanBroker\TranslatorXML\bin\Debug\TranslatorXML.exe.config
+C:\Users\Babu110\Source\Repos\TheLoanBrokerSystem\TheLoanBroker\TranslatorXML\obj\Debug\TranslatorXML.exe
+C:\Users\Babu110\Source\Repos\TheLoanBrokerSystem\TheLoanBroker\TranslatorXML\obj\Debug\TranslatorXML.pdb

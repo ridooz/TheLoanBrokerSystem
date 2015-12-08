@@ -9,3 +9,6 @@ C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorWS\bin
 C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorWS\obj\Debug\TranslatorWS.csprojResolveAssemblyReference.cache
 C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorWS\obj\Debug\TranslatorWS.exe
 C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorWS\obj\Debug\TranslatorWS.pdb
+C:\Users\Babu110\Source\Repos\TheLoanBrokerSystem\TheLoanBroker\TranslatorWS\bin\Debug\TranslatorWS.exe.config
+C:\Users\Babu110\Source\Repos\TheLoanBrokerSystem\TheLoanBroker\TranslatorWS\obj\Debug\TranslatorWS.exe
+C:\Users\Babu110\Source\Repos\TheLoanBrokerSystem\TheLoanBroker\TranslatorWS\obj\Debug\TranslatorWS.pdb

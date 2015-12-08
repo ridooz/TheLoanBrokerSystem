@@ -9,3 +9,6 @@ C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorJSON\b
 C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorJSON\obj\Debug\TranslatorJSON.csprojResolveAssemblyReference.cache
 C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorJSON\obj\Debug\TranslatorJSON.exe
 C:\Users\Mikail Tolga Turan\Desktop\TheLoanBroker\TheLoanBroker\TranslatorJSON\obj\Debug\TranslatorJSON.pdb
+C:\Users\Babu110\Source\Repos\TheLoanBrokerSystem\TheLoanBroker\TranslatorJSON\bin\Debug\TranslatorJSON.exe.config
+C:\Users\Babu110\Source\Repos\TheLoanBrokerSystem\TheLoanBroker\TranslatorJSON\obj\Debug\TranslatorJSON.exe
+C:\Users\Babu110\Source\Repos\TheLoanBrokerSystem\TheLoanBroker\TranslatorJSON\obj\Debug\TranslatorJSON.pdb
